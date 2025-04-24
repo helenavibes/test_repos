@@ -1,0 +1,11 @@
+NE ~/.vimrc
+(base) admin@Admins-MacBook-Pro ~ % cd karpov_proj
+(base) admin@Admins-MacBook-Pro karpov_proj % ls
+(base) admin@Admins-MacBook-Pro karpov_proj % git init
+Reinitialized existing Git repository in /Users/admin/karpov_proj/.git/
+(base) admin@Admins-MacBook-Pro karpov_proj % vim 1.txt
+Hello, python!
+Lorem ipsum
+Learning is great.
+
+Difficult to merge
